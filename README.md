@@ -1,6 +1,6 @@
-# Guess Game
+# Guess My Number
 
-Guess Game is a React Native Expo app where the computer attempts to guess the user's number.
+Guess My Number is a React Native Expo app where the computer attempts to guess the user's number.
 
 # Screenshots
 
