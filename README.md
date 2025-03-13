@@ -4,19 +4,17 @@ Guess Game is a React Native Expo app where the computer attempts to guess the u
 
 # Screenshots
 
-1. Start Screen
+1. Start Screen: User can enter number for the computer to guess
 
-<img width="449" alt="Start Screen" src="https://github.com/user-attachments/assets/a2238883-7322-4c26-bc8f-1176aed3edfe" />
+<img width="449" alt="Start Screen" src="https://github.com/user-attachments/assets/6722a412-c4f5-4160-bc38-922dd8630be1" />
 
+2. Game Screen: The computer attempts to guess user's number. If the computer's guess is higher than user's number, user must select lower. If the computer's guess is lower than user's number, user must select higher. The computer's guesses are tracked with logs.
 
-2. Game Screen
+<img width="449" alt="Game Screen" src="https://github.com/user-attachments/assets/1984fdbb-7a5a-479c-b4ce-1ab98b81745a" />
 
-<img width="449" alt="Game Screen" src="https://github.com/user-attachments/assets/4f2fb4cc-720d-432b-970e-d4d205bda593" />
+3. Game Over Screen: Overview of how many attempts it took for the computer to guess the user's number.
 
-
-3. Game Over Screen
-
-<img width="449" alt="Game Over Screen" src="https://github.com/user-attachments/assets/6fb2b8e4-b9c0-44fa-9120-26ffef0cbce1" />
+<img width="449" alt="Game Over Screen" src="https://github.com/user-attachments/assets/8e4f1ece-7e08-40dd-8623-90086f3f4880" />
 
 # Built with
 
