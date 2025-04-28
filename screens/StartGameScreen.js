@@ -12,8 +12,6 @@ function StartGameScreen({ onScreenChange }) {
   const [enteredNumber, setEnteredNumber] = useState("");
   const { pickedNumberHandler } = useGuess();
 
-  // test
-
   function numberInputHandler(enteredText) {
     setEnteredNumber(enteredText);
   }
